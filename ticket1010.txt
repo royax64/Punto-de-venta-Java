@@ -1,0 +1,10 @@
+	TICKET DE VENTA				
+	GRACIAS POR SU COMPRA				
+	ID de VENTA: 1010
+Dia: 2021-11-05		Hora: 15:49:49.397
+
+
+Servicio   Cantidad   $Subtotal
+jjjj	5	2500.0
+ Emergencias	N/A	3750.0
+Total= $ 6250.0
